@@ -1,4 +1,5 @@
-A real-time chat application built with Flask and Socket.IO.
+A real-time chat application built with Flask and Socket.IO. 
+<br />
 
 #Functions
 
@@ -7,7 +8,7 @@ A real-time chat application built with Flask and Socket.IO.
 - Active user tracking: The app displays the number of connected users.
 - Responsive design: The interface is designed to work well on various devices.
 - Message logging: Chat messages are logged in real-time.
-
+<br />
 
 #Getting Started
 
@@ -19,7 +20,7 @@ cd retro-chat
 
 python app.py 
 
-
+<br />
 
 Access the application in your web browser: http://127.0.0.1:5000/
 
