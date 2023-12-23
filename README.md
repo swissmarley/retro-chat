@@ -22,6 +22,14 @@ python app.py
 
 <br />
 
+#Run in a Docker Container
+
+docker build -t retro-chat .
+
+docker run -p 5000:5000 retro-chat
+
+<br />
+
 Access the application in your web browser: http://127.0.0.1:5000/
 
 
